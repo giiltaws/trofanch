@@ -4,6 +4,8 @@
 
 ## Dev. logs
 
+### Sound
 
+Sound evolution while connection to the world is lost : from organic to stylized, from rich to poor.
 
 
